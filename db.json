@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "a1tywa",
+      "image": "https://www.instagram.com/p/CvSSrJFoGNe/",
+      "age": 18,
+      "gender": "woman",
+      "description": "Ищу счастье. Гугл не помогает."
+    },
+    {
+      "id": 2,
+      "name": "Sanjik",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 20,
+      "gender": "man",
+      "description": "Если вы приедете на свидание не такая как на фото, мы будем пить пока не изменитесь"
+    },
+    {
+      "id": 3,
+      "name": "Baish",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 17,
+      "gender": "man",
+      "description": "Я – тот, кто будет целовать тебя под дождем"
+    },
+    {
+      "id": 4,
+      "name": "Aigerim",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 22,
+      "gender": "woman",
+      "description": "Я королева своего маленького мира"
+    },
+    {
+      "id": 5,
+      "name": "Kanykei",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 20,
+      "gender": "woman",
+      "description": "Верю в настоящую любовь. Не разубеждайте."
+    },
+    {
+      "id": 6,
+      "name": "Bayana",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 25,
+      "gender": "woman",
+      "description": "Ее улыбка была как доспехи, и каждый день она шла на войну"
+    },
+    {
+      "id": 7,
+      "name": "Daniyar",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 27,
+      "gender": "man",
+      "description": "Она была радуга, а он дальтоник"
+    },
+    {
+      "id": 8,
+      "name": "Cholpon",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 16,
+      "gender": "woman",
+      "description": "Не позволяйте никому арендовать место в вашей голове, если он не хороший арендатор"
+    },
+    {
+      "id": 9,
+      "name": "Aibek",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 28,
+      "gender": "man",
+      "description": "Лучше свайпнуть меня сейчас, чем через 5 лет придти на программу к Гузеевой в поисках такого как я"
+    },
+    {
+      "id": 10,
+      "name": "Shabdan",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 20,
+      "gender": "man",
+      "description": "Я слишком хорош, чтобы быть одиноким."
+    },
+    {
+      "id": 11,
+      "name": "Sultan",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 23,
+      "gender": "man",
+      "description": "Иногда бываю старомоден. Целую руки, дарю цветы и верю в романтику."
+    },
+    {
+      "id": 12,
+      "name": "Ilya",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 20,
+      "gender": "man",
+      "description": "Сожгу свое сердце на алтаре твоей любви."
+    },
+    {
+      "id": 13,
+      "name": "Pulatbek",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 27,
+      "gender": "man",
+      "description": "Мечтаю просто рядом быть и счастье дарить каждый миг. А если наступит ненастье, тебя от него оградить."
+    },
+    {
+      "id": 14,
+      "name": "Bekbolot",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 28,
+      "gender": "man",
+      "description": "Мне нужен кто-то, кто будет смотреть на меня так же, как я смотрю на шоколадный торт"
+    },
+    {
+      "id": 15,
+      "name": "Marat",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 20,
+      "gender": "man",
+      "description": "С прекрасной девушкой приходят большие расходы"
+    },
+    {
+      "id": 16,
+      "name": "Ayana",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 20,
+      "gender": "man",
+      "description": "Если мужчина свистит вам, не отвечайте. Вы дама, а не собака."
+    },
+    {
+      "id": 17,
+      "name": "Baktygul",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 23,
+      "gender": "woman",
+      "description": "Девочки похожи на абстрактную живопись. Даже если вы не можете их понять, они все равно прекрасны"
+    },
+    {
+      "id": 18,
+      "name": "Karina",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 20,
+      "gender": "man",
+      "description": "В мире, полном банальностей, я хочу оставаться классиком"
+    },
+    {
+      "id": 19,
+      "name": "Mira",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 20,
+      "gender": "man",
+      "description": "Если у тебя нет улыбки, я подарю тебе одну из своих …!"
+    },
+    {
+      "id": 20,
+      "name": "Whytdan",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 23,
+      "gender": "man",
+      "description": "Улыбка — это самый красивый изгиб женского тела"
+    },
+    {
+      "id": 20,
+      "name": "Asylbek",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljODI5Y2ItZjg3ZC00MWMzLTg3MzUtZDMyZWFkYzE3OWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "age": 18,
+      "gender": "man",
+      "description": "на свиданиях чувствую себя как рыба в воде, постоянно молчу и лицо тупое"
+    }
+  ]
+}
